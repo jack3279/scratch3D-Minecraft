@@ -23,20 +23,23 @@
   * 支持自定义 海沟/沙滩/平原/森林/岩石/雪顶 6 级无缝高度渐变。
 
 ## 🚀 如何在 TurboWarp 中使用？
-
-1. 打开 [TurboWarp](https://turbowarp.org/) 网页编辑器。
-2. 点击左下角的 **添加扩展 (Add Extension)**。
-3. 选择底部的 **自定义扩展 (Custom Extension)**。
-4. 输入本引擎的直链地址并加载：
-   `https://jack3279.github.io/Simple3D-Pro-Engine/simple3Dpro.js`
+1.输入本引擎的直链地址并下载：https://jack3279.github.io/scratch3D-Minecraft/simple3Dpro21.js
+2. 打开 [TurboWarp](https://turbowarp.org/) 网页编辑器或者本地的turbowrap软件。
+3. 点击左下角的 **添加扩展 (Add Extension)。
+4. 选择底部的 自定义扩展 (Custom Extension)。
+ <img width="428" height="426" alt="image" src="https://github.com/user-attachments/assets/52e4e3d8-2885-4837-ae66-bb01de399f97" />
+5. 选择文件选项卡，勾选在非沙盒环境运行，点击“未选择文件”按钮，上传下载的js文件。
 
 ## 🕹️ 快速上手 (Quick Start)
 
 ### 1. 宏观星球渲染管线
-（此处建议您截两张图：一张 Scratch 积木代码图，一张绝美的地球渲染图，放在项目中）
 - 关闭全局光影。
 - 使用 `[标准立方体]` 和 `45.5` 缩放倍数。
 - 加载高清地球高度图与水波材质。
+- <img width="776" height="477" alt="image" src="https://github.com/user-attachments/assets/6f3dfbb7-4a64-4fd5-a446-3a62ed4fa483" />
+<img width="1031" height="814" alt="image" src="https://github.com/user-attachments/assets/185d708c-7e4d-46e4-bf31-c786021dd71a" />
+
+
 
 ### 2. 第一人称沙盒模式
 - 锁定 FPS 鼠标。
