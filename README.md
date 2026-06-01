@@ -28,7 +28,7 @@
 2. 点击左下角的 **添加扩展 (Add Extension)**。
 3. 选择底部的 **自定义扩展 (Custom Extension)**。
 4. 输入本引擎的直链地址并加载：
-   `https://[您的用户名].github.io/Simple3D-Pro-Engine/simple3Dpro.js`
+   `https://jack3279.github.io/Simple3D-Pro-Engine/simple3Dpro.js`
 
 ## 🕹️ 快速上手 (Quick Start)
 
